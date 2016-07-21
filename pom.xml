@@ -18,7 +18,7 @@
 
 	<groupId>org.6wind.jenkins</groupId>
 	<artifactId>lockable-resources</artifactId>
-	<version>1.7-SNAPSHOT</version>
+	<version>42.0-QUANTENNA</version>
 	<packaging>hpi</packaging>
 	<name>Lockable Resources plugin</name>
 	<description>
@@ -27,7 +27,7 @@
 		resource which is already locked, it will wait for the resource to be free.
 		One can define a lock-priority globally and on a per-job basis.
 	</description>
-	<url>https://wiki.jenkins-ci.org/display/JENKINS/Lockable+Resources+Plugin</url>
+	<url>https://github.com/AndreiPustovalov/lockable-resources-plugin</url>
 
 	<licenses>
 		<license>
